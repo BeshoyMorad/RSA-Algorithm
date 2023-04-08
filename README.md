@@ -6,7 +6,7 @@ transmission.
 
 Here you can find:
 - A way to **encrypt/decrypt** text using the RSA algorithm
-- Implement for another program that tries to break RSA and get the correct private key.
+- Implementation for another program that tries to break RSA and get the correct private key.
 - Analysis for different key sizes (number of bits of n) and how it affects the speed of
 encryption/decryption and the time of algorithm breaking.
 
@@ -29,7 +29,7 @@ SOON
 
 <table>
   <tr>
-		<td align="center">
+    <td align="center">
     <a href="https://github.com/BeshoyMorad" target="_black">
     <img src="https://avatars.githubusercontent.com/u/82404564?v=4" width="150px;" alt="Beshoy Morad"/>
     <br />
