@@ -23,7 +23,7 @@ encryption/decryption and the time of algorithm breaking.
 
 ### Features ⛺
 
-SOON
+<video src="./Features.mp4">
 
 ### Contributors
 
