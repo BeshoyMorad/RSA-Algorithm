@@ -23,7 +23,9 @@ encryption/decryption and the time of algorithm breaking.
 
 ### Features ⛺
 
-<video src="./Features.mp4">
+
+https://user-images.githubusercontent.com/82404564/230904652-467b8e04-b9b3-4baf-8aad-983d09f2e302.mp4
+
 
 ### Contributors
 
